@@ -42,3 +42,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+下一篇：[我在你离开后](https://justforheart.github.io/new4u/%E6%88%91%E5%9C%A8%E4%BD%A0%E7%A6%BB%E5%BC%80%E5%90%8E)
