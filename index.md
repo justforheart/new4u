@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 当你看到这个页面时
 
 You can use the [editor on GitHub](https://github.com/justforheart/new4u/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
