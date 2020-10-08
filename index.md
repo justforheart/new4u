@@ -1,7 +1,7 @@
 ## 当你看到这个页面时,你就知道，这是专门为你而写的。
 
 我真的可以，很有耐心的，等你一个回应。
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+等我们一起走向落日黄昏的时候。
 
 ### Markdown
 
@@ -23,6 +23,14 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+```C
+# include <stdio.h>
+int main(void)
+{
+    printf("hello\n");
+    return 0;    
+}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
