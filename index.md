@@ -1,7 +1,6 @@
 ## 当你看到这个页面时,你就知道，这是专门为你而写的。
 
-You can use the [editor on GitHub](https://github.com/justforheart/new4u/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+我真的可以，很有耐心的，等你一个回应。
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
